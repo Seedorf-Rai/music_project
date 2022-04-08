@@ -399,3 +399,9 @@ input {
   }
 
 }
+@media (min-width: 1101px) and (max-width: 1500px){
+  .swiper{
+    position: relative;
+    right: 10px;
+  }
+}
